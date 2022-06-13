@@ -1,10 +1,11 @@
-
+import React from 'react';
 import './App.css';
-import Frontpage from './componenet/Pages/Frontpage';
+import {  Button  } from 'react-bootstrap';
 function App() {
   return (
    <>
-   <Frontpage/>
+   <Button variant="primary"> Profile
+  </Button>
    </>
    )
 }
