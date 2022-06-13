@@ -42,4 +42,16 @@
   padding: 2px 16px;
   width: 444px;
   height: 600px;
+  display: flex;
+  justify-content: center;
+  margin-top:50px;
+  margin-left: 50px;
 }
+.ca{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  padding: 2px 4px;
+  height: 52px;
+  width: 422px;
+  margin-top:10px;
+}
+

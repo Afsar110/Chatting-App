@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import Frontpage from './componenet/Pages/Frontpage';
 function App() {
   return (
    <>
-   <h1 className='cc'>helllo world</h1>
+   <Frontpage/>
    </>
    )
 }
