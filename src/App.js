@@ -1,13 +1,16 @@
 import React from 'react';
-import './App.css';
-import {  Button  } from 'react-bootstrap';
+import Asif from './components/Asif';
+import './components/App.css'; 
+
+
+
+
 function App() {
-  return (
-   <>
-   <Button variant="primary"> Profile
-  </Button>
-   </>
-   )
+  return(
+    <div className='Appp'>
+      <Asif />  
+    </div>
+  )
 }
 
 export default App;
