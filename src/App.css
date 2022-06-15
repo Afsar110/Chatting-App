@@ -55,3 +55,34 @@
   margin-top:10px;
 }
 
+.pic{
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  margin-left: 13px;
+ 
+}
+.align{
+  display: flex;
+  align-items: center;
+  margin: 39px;
+  box-shadow: 0 8px 12px;
+  height: 86px;
+    width: 299px;
+}
+.m{
+  text-align: center;
+  margin-top: -53px;
+}
+.mm{
+  text-align: center;
+}
+.sb{
+  max-width: 290px;
+    margin-left: 70px;
+    margin-top: 11px;
+}
+.bt{
+  width: 46;
+}
+

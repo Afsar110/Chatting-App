@@ -1,11 +1,12 @@
 import React from 'react';
 import './App.css';
-import {  Button  } from 'react-bootstrap';
+import UserCardList from './components/UserCardList';
+import ScarchBar from './components/ScarchBar';
 function App() {
   return (
    <>
-   <Button variant="primary"> Profile
-  </Button>
+   <ScarchBar/>
+   <UserCardList/>
    </>
    )
 }
